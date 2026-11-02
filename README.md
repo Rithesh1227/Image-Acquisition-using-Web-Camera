@@ -1,6 +1,6 @@
 # Ex02-Image-Acquisition-using-Web-Camera
 # Name: Rithesh S 
-# Register Number:* 212225220084 
+# Register Number: 212225220084 
 
 
 ---
