@@ -1,7 +1,7 @@
-# Image-Acquisition-using-Web-Camera
-*Name:* Rithesh S 
-*Register Number:* 212225220084 
-*Experiment:* Image-Acquisition-using-Web-Camera
+# Ex02-Image-Acquisition-using-Web-Camera
+# Name: Rithesh S 
+# Register Number:* 212225220084 
+
 
 ---
 
